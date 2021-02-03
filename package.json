@@ -1,0 +1,11 @@
+{
+  "name": "custom-cypress-commands",
+  "version": "0.0.0",
+  "description": "Generic commands to shorten the syntax used in cypress tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Atherton",
+  "license": "ISC"
+}
