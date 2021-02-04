@@ -24,7 +24,7 @@ import { customFunctions } from 'custom-cypress-commands';
 import { customFunctions } from 'custom-cypress-commands';
 
 describe('Example test', () => {
-  it('make sure the search bar is empty', () => {
+  it('Check the wording in the main heading', () => {
     customFunctions.checkWordingIncludes('#mainHeading', 'Welcome');
   });
 });
