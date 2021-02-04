@@ -1,6 +1,6 @@
 {
   "name": "custom-cypress-commands",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Generic commands to shorten the syntax used in cypress tests",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,13 @@
   },
   "author": "Nathan Atherton",
   "license": "ISC",
-  "homepage": "https://github.com/Nathanavie/cypress-custom-commands"
+  "homepage": "https://github.com/Nathanavie/cypress-custom-commands",
+  "keywords": [
+    "cypress",
+    "commands",
+    "custom",
+    "easier",
+    "simple",
+    "reusable"
+  ]
 }
